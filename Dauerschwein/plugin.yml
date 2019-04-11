@@ -1,0 +1,9 @@
+name: Dauerschwein
+version: 1.0
+main: de.dauerschwein.main.Main
+
+commands:
+
+   foodpig:
+    description: Erstelle ein neues foodpig!
+    
